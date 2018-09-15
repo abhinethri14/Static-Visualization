@@ -1,4 +1,2 @@
 # Static-Visualization
-Question: Analyze the Tennis data and represent through Static Visulization
-
-> The data has been analyzed using Tableau
+Performed analysis on Australian Open Tennis and represented Static Visulization using Tableau
